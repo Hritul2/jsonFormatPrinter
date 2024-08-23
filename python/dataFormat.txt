@@ -1,0 +1,32 @@
+Array [
+  {
+    step_no:
+      int
+    step_title:
+      str
+    sub_steps:
+      Array [
+        {
+          sub_step_no:
+          sub_step_title:
+          topics:
+            Array [
+              {
+                id:
+                sl_no:
+                question_title:
+                post_link:
+                yt_link:
+                gfg_link:
+                cs_link:
+                lc_link:
+                  NoneType
+                company_tags:
+                difficulty:
+                ques_topic:
+              }
+            ]
+        }
+      ]
+  }
+]
